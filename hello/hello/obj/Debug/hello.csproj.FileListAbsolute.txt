@@ -1,0 +1,7 @@
+C:\Users\soumyaranjan.routray\source\repos\hello\hello\bin\Debug\hello.exe.config
+C:\Users\soumyaranjan.routray\source\repos\hello\hello\bin\Debug\hello.exe
+C:\Users\soumyaranjan.routray\source\repos\hello\hello\bin\Debug\hello.pdb
+C:\Users\soumyaranjan.routray\source\repos\hello\hello\obj\Debug\hello.csproj.AssemblyReference.cache
+C:\Users\soumyaranjan.routray\source\repos\hello\hello\obj\Debug\hello.csproj.CoreCompileInputs.cache
+C:\Users\soumyaranjan.routray\source\repos\hello\hello\obj\Debug\hello.exe
+C:\Users\soumyaranjan.routray\source\repos\hello\hello\obj\Debug\hello.pdb

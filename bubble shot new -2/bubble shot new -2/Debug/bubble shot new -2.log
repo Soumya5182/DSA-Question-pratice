@@ -1,0 +1,16 @@
+﻿  bubble shot new -2.cpp
+C:\Users\soumyaranjan.routray\source\repos\bubble shot new -2\bubble shot new -2\bubble shot new -2.cpp(16,17): error C2672: 'std::swap': no matching overloaded function found
+C:\Users\soumyaranjan.routray\source\repos\bubble shot new -2\bubble shot new -2\bubble shot new -2.cpp(16,35): error C2780: 'void std::swap(std::unique_ptr<_Ty,_Dx> &,std::unique_ptr<_Ty,_Dx> &) noexcept': expects 2 arguments - 3 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\memory(3447): message : see declaration of 'std::swap'
+C:\Users\soumyaranjan.routray\source\repos\bubble shot new -2\bubble shot new -2\bubble shot new -2.cpp(16,35): error C2780: 'void std::swap(std::weak_ptr<_Ty> &,std::weak_ptr<_Ty> &) noexcept': expects 2 arguments - 3 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\memory(3061): message : see declaration of 'std::swap'
+C:\Users\soumyaranjan.routray\source\repos\bubble shot new -2\bubble shot new -2\bubble shot new -2.cpp(16,35): error C2780: 'void std::swap(std::shared_ptr<_Ty> &,std::shared_ptr<_Ty> &) noexcept': expects 2 arguments - 3 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\memory(1918): message : see declaration of 'std::swap'
+C:\Users\soumyaranjan.routray\source\repos\bubble shot new -2\bubble shot new -2\bubble shot new -2.cpp(16,35): error C2780: 'void std::swap(std::basic_string<_Elem,_Traits,_Alloc> &,std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': expects 2 arguments - 3 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\xstring(4679): message : see declaration of 'std::swap'
+C:\Users\soumyaranjan.routray\source\repos\bubble shot new -2\bubble shot new -2\bubble shot new -2.cpp(16,35): error C2780: 'void std::swap(std::pair<_Ty1,_Ty2> &,std::pair<_Ty1,_Ty2> &) noexcept(<expr>)': expects 2 arguments - 3 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\utility(341): message : see declaration of 'std::swap'
+C:\Users\soumyaranjan.routray\source\repos\bubble shot new -2\bubble shot new -2\bubble shot new -2.cpp(16,35): error C2780: 'void std::swap(_Ty (&)[_Size],_Ty (&)[_Size]) noexcept(<expr>)': expects 2 arguments - 3 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\type_traits(2022): message : see declaration of 'std::swap'
+C:\Users\soumyaranjan.routray\source\repos\bubble shot new -2\bubble shot new -2\bubble shot new -2.cpp(16,35): error C2780: 'void std::swap(_Ty &,_Ty &) noexcept(<expr>)': expects 2 arguments - 3 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\type_traits(2019): message : see declaration of 'std::swap'

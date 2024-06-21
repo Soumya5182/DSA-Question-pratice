@@ -1,0 +1,4 @@
+﻿  Vectoros example by prateek.cpp
+C:\Users\soumyaranjan.routray\source\repos\Vectoros example by prateek\Vectoros example by prateek\Vectoros example by prateek.cpp(9,17): error C2374: 'arr': redefinition; multiple initialization
+C:\Users\soumyaranjan.routray\source\repos\Vectoros example by prateek\Vectoros example by prateek\Vectoros example by prateek.cpp(7): message : see declaration of 'arr'
+C:\Users\soumyaranjan.routray\source\repos\Vectoros example by prateek\Vectoros example by prateek\Vectoros example by prateek.cpp(15,24): warning C4018: '<': signed/unsigned mismatch

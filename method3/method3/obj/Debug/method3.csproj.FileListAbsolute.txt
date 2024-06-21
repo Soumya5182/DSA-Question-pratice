@@ -1,0 +1,7 @@
+C:\Users\soumyaranjan.routray\source\repos\method3\method3\bin\Debug\method3.exe.config
+C:\Users\soumyaranjan.routray\source\repos\method3\method3\bin\Debug\method3.exe
+C:\Users\soumyaranjan.routray\source\repos\method3\method3\bin\Debug\method3.pdb
+C:\Users\soumyaranjan.routray\source\repos\method3\method3\obj\Debug\method3.csproj.AssemblyReference.cache
+C:\Users\soumyaranjan.routray\source\repos\method3\method3\obj\Debug\method3.csproj.CoreCompileInputs.cache
+C:\Users\soumyaranjan.routray\source\repos\method3\method3\obj\Debug\method3.exe
+C:\Users\soumyaranjan.routray\source\repos\method3\method3\obj\Debug\method3.pdb
